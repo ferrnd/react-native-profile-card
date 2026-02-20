@@ -17,7 +17,7 @@ This is a clean, modern mobile profile card built using **React Native** and **E
   <table>
     <tr>
       <td>
-        <img src=".github/screenshots/Image_20260220_144248_383.png" width="300" title="Home Screen">
+        <img src="screenshots/Image_20260220_144248_383.png" width="300" title="Home Screen">
       </td>
     </tr>
   </table>
